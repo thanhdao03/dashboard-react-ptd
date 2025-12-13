@@ -14,7 +14,10 @@
   
 <tr>
 <td valign="top">
+  
 <ul>
+   <li>Used Vite instead of CRA </li>
+  <li>Firebase authentication </li>
   <li>JWT authentication</li>
   <li>Role based authentication</li>
   <li>Lazy loading components</li>
@@ -67,23 +70,6 @@
 </td>
 </tr>
 </table>
-
-<h2>Version 5 changes</h2>
-- Used Vite instead of CRA
-
-<h2>Version 4 changes</h2>
-- Updated all packages  
-- Added Auth0 and Firebase authentication system
-
-<h2>Version 3 changes</h2>
-- Added Material UI – Styled api (v5)  
-- Added Material UI updated components from MUI@version 5  
-- Added React Apex Chart  
-- Updated JWT authentication  
-- Updated Charts  
-- Removed CSS Utilities (replaced by MUI)  
-- Removed SASS Integration (replaced by Styled API)  
-- Removed Victory chart (Replaced by React Apex Chart)
 
 <h2 id="availablescripts">Getting started</h2>
 
