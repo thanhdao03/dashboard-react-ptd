@@ -10,7 +10,7 @@ const userList = [
     name: "Pham Thanh Dao",
     username: "phamthanhdao64",
     email: "phamthanhdao64@gmail.com",
-    avatar: "/assets/images/face-6.jpg",
+    avatar: "/assets/images/PTD3.jpg",
     age: 25
   }
 ];
