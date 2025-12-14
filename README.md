@@ -1,6 +1,6 @@
 <h1>PTD React Material Design Admin Dashboard Template</h1>
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/205ae59f-aaa0-4ca7-8e68-407fea299721" />
+<img width="1916" height="1077" alt="image" src="https://github.com/user-attachments/assets/cf675575-bc9a-4985-922f-02e0f9836993" />
 
 <p>
   PTD is a full-featured React Material UI Admin Dashboard template. PTD is built with React,
@@ -23,30 +23,15 @@
   <li>Lazy loading components</li>
   <li>Code splitting</li>
   <li>Dashboard Analytics</li>
-  <li>UI kits
-    <ul>
-      <li>Autocomplete</li>
-      <li>Buttons</li>
-      <li>Checkbox</li>
-      <li>Dialog</li>
-      <li>Expansion panel</li>
-      <li>Menu</li>
-      <li>Progress</li>
-      <li>Datetime picker</li>
-      <li>Radio</li>
-      <li>Switch</li>
-      <li>Slider</li>
-      <li>Snackbar</li>
-      <li>Data table</li>
-    </ul>
-  </li>
+  <li>Profile</li>
+  <li>Setting</li>
   <li>Forms
     <ul>
       <li>Basic</li>
       <li>Rich text editor</li>
     </ul>
   </li>
-  <li>eChart</li>
+
   <li>Session pages
     <ul>
       <li>Sign in</li>
