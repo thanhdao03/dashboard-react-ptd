@@ -39,7 +39,7 @@ export default function UpgradeCard() {
           variant="contained"
           sx={{ textTransform: "uppercase" }}
           target="_blank"
-          href="https://react-portfolio-ptd.netlify.app/projects"
+          href="https://react-portfolio-ptd.netlify.app/about"
         >
           Learn More
         </Button>

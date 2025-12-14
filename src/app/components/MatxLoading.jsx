@@ -22,7 +22,7 @@ export default function Loading() {
   return (
     <StyledLoading>
       <Box position="relative">
-        <img src="/assets/images/logo-circle.svg" alt="Logo" />
+        <img src="/assets/images/logo-ptd.png" alt="Logo" />
         <CircularProgress className="circleProgress" />
       </Box>
     </StyledLoading>
