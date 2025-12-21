@@ -23,6 +23,31 @@ const navigations = [
   //     { name: "Snackbar", path: "/material/snackbar", iconText: "S" },
   //   ]
   // },
+
+
+
+  { label: "Auth", type: "label" },
+  {
+    name: "Session/Auth",
+    icon: "security",
+    children: [
+      { name: "Sign in", iconText: "SI", path: "/session/signin" },
+      { name: "Sign up", iconText: "SU", path: "/session/signup" },
+      { name: "Forgot Password", iconText: "FP", path: "/session/forgot-password" },
+      { name: "Error", iconText: "404", path: "/session/404" }
+    ]
+  },
+  { label: "Settings", type: "label" },
+  {
+    name: "Settings",
+    path: "page-layouts/user-settings",
+    icon: "settings",
+  },
+  // {
+  //   name: "Charts",
+  //   icon: "trending_up",
+  //   children: [{ name: "Echarts", path: "/charts/echarts", iconText: "E" }]
+  // },
   { label: "User", type: "label" },
   {
     name: "Profile",
@@ -35,30 +60,6 @@ const navigations = [
     type: "extLink",
     path: "https://react-portfolio-ptd.netlify.app/projects"
   },
-
-  { label: "Settings", type: "label" },
-  {
-    name: "Settings",
-    path: "page-layouts/user-settings",
-    icon: "settings",
-  },
-  // {
-  //   name: "Charts",
-  //   icon: "trending_up",
-  //   children: [{ name: "Echarts", path: "/charts/echarts", iconText: "E" }]
-  // },
-
-  // { label: "PAGES", type: "label" },
-  // {
-  //   name: "Session/Auth",
-  //   icon: "security",
-  //   children: [
-  //     { name: "Sign in", iconText: "SI", path: "/session/signin" },
-  //     { name: "Sign up", iconText: "SU", path: "/session/signup" },
-  //     { name: "Forgot Password", iconText: "FP", path: "/session/forgot-password" },
-  //     { name: "Error", iconText: "404", path: "/session/404" }
-  //   ]
-  // },
 ];
 
 export default navigations;
